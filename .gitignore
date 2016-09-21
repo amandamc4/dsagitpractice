@@ -1,0 +1,8 @@
+a.out
+*.exe
+*.obj
+*.o
+*.jpg
+*.gif
+*.png
+.DS_Store
